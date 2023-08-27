@@ -15,16 +15,19 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢦⡀⠀⠀⠀⡀⢦⠈
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢦⡀⠀⡀⢦⠈
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢦⡀⢦⠈
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢦⠈
-![voilatin](https://voilatin.vercel.app)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢦⠈[voilatin]
 ```
 
 Voilatin are digital services in Assistance, Virtual Assistance and more. Be our guess and explore our portfolio service.
 
+![Voilatin](https://voilatin.vercel.app)
+
 # Nice commands
 
+- npx eleventy --serve
 - npm run dev
 - npm run build
+- elevently
 
 1. Add the repository into your Eleventy Project repository by `git clone https://github.com/StaticMania/roxo-eleventy.git`
 
@@ -58,9 +61,7 @@ Voilatin are digital services in Assistance, Virtual Assistance and more. Be our
 
 ### Licensing
 
-### URLs
-
-https://voilatin.vercel.app/
+MIT
 
 ### Roxo Eleventy
 

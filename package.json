@@ -1,5 +1,5 @@
 {
-   "name": "eldorado",
+   "name": "voilatin",
    "version": "1.0.0",
    "description": "",
    "main": ".eleventy.js",
@@ -16,7 +16,7 @@
    "author": "",
    "license": "ISC",
    "bugs": {
-      "url": "https://github.com/Tanvir9290/Roxo_eleventy/issues"
+      "url": "https://github.com/lucfreelance/voilatin.git"
    },
    "homepage": "https://github.com/lucfreelance/voilatin.git#readme",
    "dependencies": {
