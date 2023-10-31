@@ -3,10 +3,10 @@ layout: "layouts/homepage.njk"
 hero:
   subTitle: "Virtual Assistance, Social Media & Community Manager"
   title:
-    firstPara: VOILATIN [Digital Agency]"
+    firstPara: "VOILATIN [Digital Agency]"
     secondPara: "Where Your Needs Meets Our Motto"
   seeWorkBtn:
-    text: "See Our Embrace"
+    text: "See our embrace"
     link: "#project"
   connectBtn: 
     text: "Connect with us"
