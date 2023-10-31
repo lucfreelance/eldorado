@@ -29,6 +29,7 @@ Voilatin are digital services in Assistance, Virtual Assistance and more. Be our
 - npm run dev
 - npm run build
 - elevently
+- wslview
 
 1. Add the repository into your Eleventy Project repository by `git clone https://github.com/StaticMania/roxo-eleventy.git`
 
