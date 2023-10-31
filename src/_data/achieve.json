@@ -1,21 +1,21 @@
 {
-  "title": "The Proof is in the Pudding!",
-  "achievements":[
+  "title": "Client Feedback & Achievements",
+  "feedback": [
     {
-      "title": "Happy Clients",
-      "counter": "253"
+      "title": "Satisfied Clients",
+      "count": "25"
     },
     {
-      "title": "Projects Completed",
-      "counter": "111"
+      "title": "Completed Projects",
+      "count": "11"
     },
     {
-      "title": "Cups of coffee",
-      "counter": "351"
+      "title": "Client Iterations",
+      "count": "7"
     },
     {
-      "title": "Telephone Talks",
-      "counter": "740"
+      "title": "Client Retention Rate",
+      "count": "74%"
     }
   ]
 }

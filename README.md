@@ -1,4 +1,4 @@
-# Thanks for your visit! - We are Voilatin
+# Thanks for your visit! - We are VOILATIN [Digital Agency]
 
 ```yaml
 ⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢀
@@ -19,7 +19,7 @@
   ░v░ ░o░ ░i░ ░l░ ░a░ ░t░ ░i░ ░n░
 ```
 
-Voilatin are digital services in Assistance, Virtual Assistance and more. Be our guess and explore our portfolio service.
+Voilatin are digital services in Virtual Assistance, Social Media, Community Manager and more. Be our guess and explore our portfolio's services.
 
 [Voilatin](https://voilatin.vercel.app)
 
