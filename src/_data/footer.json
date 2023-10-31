@@ -1,23 +1,19 @@
 {
   "footerLogo": "/assets/images/logo-footer.png",
 
-  "contactsHeading": "Contact Info",
+  "contactsHeading": "Find Us There:",
   "contactsInfo":[
     {
-      "link":"https://goo.gl/maps/fBANt7Ns2wi6mM7cA",
-      "text":"713 Elmwood St. Prior Lake, MN 55372"
+      "link":"https://maps.app.goo.gl/snLZ4686x1HppDwy5",
+      "text":"Cali, Valle del Cauca, CO 760014"
     },
     {
-      "link":"tel:409-896-1444",
-      "text":"409-896-1444"
-    },
-    {
-      "link":"tel:409-781-1308",
-      "text":"409-781-1308"
+      "link":"tel:+57-315-7742332",
+      "text":"+57-315-774-2332"
     },
     {
       "link":"mailto:",
-      "text":"info@roxo.co"
+      "text":"voilatin@gmail.com"
     }
   ],
 
@@ -25,7 +21,7 @@
   "siteMap":[
     {
       "link":"about",
-      "text":"About Company"
+      "text":"About Voilatin"
     },
     {
       "link":"portfolio",
@@ -45,10 +41,6 @@
   "socialMedia":[
     {
       "link":"#",
-      "text":"Medium"
-    },
-    {
-      "link":"#",
       "text":"Behance"
     },
     {
@@ -56,14 +48,15 @@
       "text":"Dribbble"
     },
     {
-      "link":"#",
+      "link":"https://instagram.com",
       "text":"Instagram"
     }
   ],
   
   "brandHeading":"We help brands:",
-  "brandMotto":["develop design solutions","produce valuable cultural content","create fresh brand experience"],
+  "brandMotto":
+  ["Develop design solutions","Produce valuable cultural content","Create fresh brand experience"],
 
   "back2topIcon":"/assets/images/to-top.svg",
-  "customerComment":"I want to visit again"
+  "customerComment":"Back to hero"
 }

@@ -4,7 +4,7 @@ hero:
   subTitle: "Virtual Assistance, Social Media & Community Manager"
   title:
     firstPara: "VOILATIN [Digital Agency]"
-    secondPara: "Where All Your Zooming Needs Meets Our Motto"
+    secondPara: "'Where All Your Zooming Needs Meets Our Motto'"
   seeWorkBtn:
     text: "See our embrace"
     link: "#project"
