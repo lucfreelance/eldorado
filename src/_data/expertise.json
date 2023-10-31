@@ -1,15 +1,17 @@
 {
-  "title":"Expertise",
+  "title":"Service List",
   "expertIn": 
-  ["Customer Experience Design",
-    "Digital Products",
+  ["Digital Products",
     "Development",
     "Campaign & Content",
     "Employer Branding",
-    "Animation & Motion Graphics",
+    "CSS Animation",
+    "Motion Graphics",
     "Packaging & Product Design",
     "Retail & Spacial",
-    "Print & Editorial DesignPrint & Editorial Design",
-    "Concept/Text",
+    "Video Edit",
+    "Subliming",    
+    "Logo Maker",    
+    "Prompt Engineering",
     "Information Design"]
 }
