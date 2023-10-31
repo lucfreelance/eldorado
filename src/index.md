@@ -1,20 +1,20 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "WE WORK HARD, WE PLAY HARD"
+  subTitle: "Virtual Assistance, Social Media & Community Manager"
   title:
-    firstPara: "We’re a Design Studio"
-    secondPara: "That Believes In Great Ideas"
+    firstPara: VOILATIN [Digital Agency]"
+    secondPara: "Where Your Needs Meets Our Motto"
   seeWorkBtn:
-    text: "See Our Works"
+    text: "See Our Embrace"
     link: "#project"
   connectBtn: 
     text: "Connect with us"
     link: "contact"
 
 portfolio:
-  subTitle: "OUR RECENT WORKS"
-  title: "Crafting experiences and seeking to make the complex clear & beautiful."
+  subTitle: "RECENT PROJECTS"
+  title: "Our Best Products of the Moment."
   seeAllbtn:
     link: "portfolio"
     text: "MORE WORKS"
