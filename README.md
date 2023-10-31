@@ -16,18 +16,26 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢦⡀⠀⡀⢦⠈
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢦⡀⢦⠈
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢦⠈
-  ░v░ ░o░ ░i░ ░l░ ░a░ ░t░ ░i░ ░n░
+░v░ ░o░ ░i░ ░l░ ░a░ ░t░ ░i░ ░n░
 ```
 
-Voilatin are digital services in Virtual Assistance, Social Media, Community Manager and more. Be our guess and explore our portfolio's services.
+Voilatin are a Digital Agency for services in:
+
+- Virtual Assistance
+- Community Manager
+- SEO Copywriting
+- Image Branding
+- Social Media
+
+And more. Be our guess and explore our portfolio's services.
 
 [Voilatin](https://voilatin.vercel.app)
 
 # Nice commands
 
 - npx eleventy --serve
-- npm run dev
 - npm run build
+- npm run dev
 - elevently
 - wslview
 

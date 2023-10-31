@@ -12,9 +12,14 @@
       "type": "git",
       "url": "git+https://github.com/lucfreelance/voilatin.git"
    },
-   "keywords": [],
-   "author": "",
-   "license": "ISC",
+   "keywords": [
+      "eleventy",
+      "nunjucks",
+      "bootstrap",
+      "javascript"
+   ],
+   "author": "Lucfreelance",
+   "license": "MIT",
    "bugs": {
       "url": "https://github.com/lucfreelance/voilatin.git"
    },
