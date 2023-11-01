@@ -112,7 +112,7 @@ h6 {
 }
 
 .btn-secondary {
-  background: #ADD6D2;
+  background: #94d0ff;
   color: #fff;
 }
 .btn-secondary:hover {
@@ -355,7 +355,7 @@ textarea.form-control {
 .site-counter {
   padding: 85px 0;
   color: #fff;
-  background: #ADD6D2;
+  background: #94d0ff;
 }
 .site-counter .section-title {
   margin-bottom: 40px;
@@ -1030,7 +1030,7 @@ textarea.form-control {
 }
 
 .site-footer {
-  background: #ADD6D2;
+  background: #94d0ff;
   padding: 100px 0;
 }
 .site-footer-logo {

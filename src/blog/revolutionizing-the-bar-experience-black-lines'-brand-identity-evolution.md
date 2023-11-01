@@ -1,14 +1,14 @@
 ---
-title: "Design inspiration: the best projects from November"
-des: "From an immersive rendering of King Kong to a map that breaks down the UK into 1400 songs, these are some of our favourite studio projects from November..."
-postDate: "26-Nov-2019"
-img: "/assets/images/blog/blog-post-02.jpg"
-btnText: "read more"
-author: "Alexender Schoitiz"
-featureImg: "/assets/images/blog/blog-details-image.jpg"
+title: "Revolutionizing the Bar Experience: Black Lines' Brand Identity Evolution"
+des: "Explore the transformative journey of Black Lines, reshaping the bar scene with its innovative approach to serving cocktails and redefining brand identity..."
+postDate: "27-Oct-2023"
+img: "/assets/images/blog/blog-post-02.png"
+btnText: "Read More"
+author: "Voilatin Editorial Team"
+featureImg: "/assets/images/blog/blog-feature-image-02.jpg"
 ---
 
-### Black Lines brand identity, by & Smith
+## Black Lines brand identity, by & Smith
 
 Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
 
@@ -28,10 +28,9 @@ The company was previously known as Hingston + Co. but has been given a complete
  5. YOLO means You only live once.
  6. SMH means Shaking my head.
 
-![](/assets/images/blog/blog-details-image-02.jpg)
-
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
-
+![](/assets/images/blog/blog-details-image-02.png)
 
 > "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring." 
 <cite>Paul Rand, graphic designer</cite>
+
+Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.

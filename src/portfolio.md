@@ -5,4 +5,4 @@ pagination:
   size: 3
   alias: portfolios
 ---
-# Explore our captivating <span>Showcase </span>featuring recently crafted, eye-catching works:
+# Explore our <span>Showcase </span>featuring recently crafted, eye-catching works:
