@@ -1,17 +1,19 @@
 {
-  "title":"Service List",
-  "expertIn": 
-  ["Digital Products",
-    "Development",
-    "Campaign & Content",
-    "Employer Branding",
-    "CSS Animation",
-    "Motion Graphics",
+  "title": "Service List",
+  "expertIn": [
     "Packaging & Product Design",
-    "Retail & Spacial",
-    "Video Edit",
-    "Subliming",    
-    "Logo Maker",    
     "Prompt Engineering",
-    "Information Design"]
+    "Campaign & Content",
+    "Information Design",
+    "Employer Branding",
+    "Digital Products",
+    "Retail & Spacial",
+    "Motion Graphics",
+    "Social Content",
+    "CSS Animation",
+    "Development",
+    "Logo Maker",
+    "Video Edit",
+    "Subliming"
+  ]
 }

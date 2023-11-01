@@ -1,6 +1,6 @@
 ---
-subTitle: "PRODUCT LABEL" 
-title: "KIO TAPE"
+subTitle: "SOCIAL CONTENT" 
+title: "MEGALEARN"
 img: "/assets/images/projects/project-thumb-four.jpg"
 linkText: "view project"
 featureImg1: "/assets/images/projects/project-details-image-one.jpg"

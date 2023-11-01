@@ -2,10 +2,10 @@
 title: "Elevating Brand Identity: The Resonating Story of Lumina Coffee"
 des: "Exploring the brand transformation journey of Lumina Coffee and its impact on engaging consumers and shaping brand loyalty."
 postDate: "31-Oct-2023"
-img: "/assets/images/blog/blog-post-04.jpg"
+img: "/assets/images/blog/blog-post-03.jpg"
 btnText: "Read More"
 author: "Voilatin Editorial Team"
-featureImg: "/assets/images/blog/blog-feature-image-04.jpg"
+featureImg: "/assets/images/blog/blog-feature-image-03.jpg"
 ---
 
 ## Elevating Brand Identity: The Resonating Story of Lumina Coffee
@@ -16,7 +16,7 @@ Let's delve into the captivating journey of Lumina Coffee, a narrative that illu
 
 Lumina Coffee set out to reinvent itself by creating a brand identity that transcended the ordinary. Embracing the spirit of diversity, sustainability, and a genuine passion for exceptional coffee, the brand embarked on a transformative journey.
 
-![Lumina Coffee Transformation](/assets/images/blog/lumina-coffee-transformation.jpg)
+![Lumina Coffee Transformation](/assets/images/blog/blog-details-image-03a.jpg)
 
 > "A brand is a story that is always being told."
 <cite>Scott Bedbury, Brand Visionary</cite>
@@ -27,7 +27,7 @@ The brand's new identity wove together elements of organic inspiration, reflecti
 
 The color palette, a fusion of earthy tones and vibrant hues, mirrored the rich and diverse flavors the brand had to offer. The redesign not only revitalized the packaging but also created a sense of immersion and allure for the consumer.
 
-![Lumina Coffee Branding](/assets/images/blog/lumina-coffee-branding.jpg)
+![Lumina Coffee Branding](/assets/images/blog/blog-details-image-03b.jpg)
 
 > "Design is intelligence made visible."
 <cite>Alina Wheeler, Branding Expert</cite>
