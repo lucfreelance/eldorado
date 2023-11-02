@@ -1,10 +1,10 @@
 ---
-subTitle: "REBRAND" 
-title: "SEAMLESS WATCH"
-img: "/assets/images/projects/project-thumb-three.jpg"
+subTitle: "LOGO DESIGN" 
+title: "DIGITAL TIER"
+img: "/assets/images/projects/project-thumb-3.jpg"
 linkText: "view project"
-featureImg1: "/assets/images/projects/project-details-image-one.jpg"
-featureImg2: "/assets/images/projects/project-details-image-two.jpg"
+featureImg1: "/assets/images/projects/project-details-image-3a.png"
+featureImg2: "/assets/images/projects/project-details-image-3b.png"
 ---
 The “Osen Clock” watch has all the features that users expect in a digital watch, and some unusual features.
 

@@ -1,10 +1,10 @@
 ---
 subTitle: "SOCIAL CONTENT" 
 title: "MEGALEARN"
-img: "/assets/images/projects/project-thumb-four.jpg"
+img: "/assets/images/projects/project-thumb-4.png"
 linkText: "view project"
-featureImg1: "/assets/images/projects/project-details-image-one.jpg"
-featureImg2: "/assets/images/projects/project-details-image-two.jpg"
+featureImg1: "/assets/images/projects/project-details-image-4a.png"
+featureImg2: "/assets/images/projects/project-details-image-4b.jpg"
 ---
 The “Osen Clock” watch has all the features that users expect in a digital watch, and some unusual features.
 

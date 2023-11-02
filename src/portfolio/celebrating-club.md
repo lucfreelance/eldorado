@@ -1,10 +1,10 @@
 ---
-subTitle: "UX UI" 
-title: "USE-LESS BRAND"
-img: "/assets/images/projects/project-thumb-one.jpg"
+subTitle: "SOCIAL CONTENT" 
+title: "CELEBRATING CLUB"
+img: "/assets/images/projects/project-thumb-1.jpg"
 linkText: "view project"
-featureImg1: "/assets/images/projects/project-details-image-one.jpg"
-featureImg2: "/assets/images/projects/project-details-image-two.jpg"
+featureImg1: "/assets/images/projects/project-details-image-1a.jpg"
+featureImg2: "/assets/images/projects/project-details-image-1b.jpg"
 ---
 The “Osen Clock” watch has all the features that users expect in a digital watch, and some unusual features.
 
