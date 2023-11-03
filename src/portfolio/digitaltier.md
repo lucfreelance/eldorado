@@ -20,12 +20,12 @@ Each logo was strategically designed to be versatile, ensuring its adaptability 
 
 My achievement as a Logo Designer for *DIGITAL TIER* resides in translating the individual visions of numerous clients into succinct visual forms, establishing foundational elements crucial for their brand recognition and identity.
 
-> ![Reto PC](../../assets/images/projects/digitaltier-work-1-reto-pc.png)
+> ![TDR](../../assets/images/projects/digitaltier-work-4-tdr.png)
 > ![Positiva](../../assets/images/projects/digitaltier-work-2-positiva.png)
 > ![Komensal](../../assets/images/projects/digitaltier-work-3-komensal.png)
-> ![TDR](../../assets/images/projects/digitaltier-work-4-tdr.png)
 > ![Concultura MC](../../assets/images/projects/digitaltier-work-5-concultura-mc.png)
-> ![ultraspaces](../../assets/images/projects/digitaltier-work-6-ultraspaces.png)
 > ![I❤️LF](../../assets/images/projects/digitaltier-work-7-illf.png)
 > ![Date Off](../../assets/images/projects/digitaltier-work-8-date-off.png)
+> ![ultraspaces](../../assets/images/projects/digitaltier-work-6-ultraspaces.png)
 > ![desarrollodigital.ws](../../assets/images/projects/digitaltier-work-9-desarrollo-digital-ws.png)
+> ![Reto PC](../../assets/images/projects/digitaltier-work-1-reto-pc.png)
