@@ -9,7 +9,7 @@
     },
     {
       "link":"tel:+57-315-7742332",
-      "text":"+57-315-774-2332"
+      "text":"Reach us on WhatsApp"
     },
     {
       "link":"mailto:",
@@ -40,11 +40,11 @@
   "socialHeading":"Social Media",
   "socialMedia":[
     {
-      "link":"#",
+      "link":"https://www.behance.net/voilatin",
       "text":"Behance"
     },
     {
-      "link":"#",
+      "link":"https://dribbble.com/voilatin",
       "text":"Dribbble"
     },
     {
