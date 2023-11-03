@@ -1,43 +1,31 @@
 ---
-subTitle: "LOGO DESIGN" 
+subTitle: "LOGO DESIGN"
 title: "DIGITAL TIER"
 img: "/assets/images/projects/project-thumb-3.jpg"
 linkText: "view project"
 featureImg1: "/assets/images/projects/project-details-image-3a.png"
 featureImg2: "/assets/images/projects/project-details-image-3b.png"
 ---
-The “Osen Clock” watch has all the features that users expect in a digital watch, and some unusual features.
 
-The watch has the following features:
+> Contributions to *DIGITAL TIER* as a Logo Designer
+> ![Digital Tier](../../assets/images/projects/digitaltier-logo.jpeg)
 
-Time and date displayed on the screen. Current time is in large numbers, date is in small numbers above it.
+My involvement in the 'DIGITAL TIER' project as a Logo Designer revolved around creating impactful visual identities for numerous new clients. My focus was on crafting unique and memorable logos that encapsulated the core essence of each brand.
 
-Light: Pressing the light button on the side of the watch activates a light while the button is pressed. Pressing and holding that button for 3 seconds turns on the light and keeps it on, until the button is held again for 3 seconds or up to 2 hours. After 2 hours, it will automatically turn off.
+Using a meticulous approach and a deep understanding of brand representation, I aimed to distill each client's identity into a single emblematic logo. By leveraging design principles, creativity, and a profound comprehension of each brand's mission, I strived to produce logos that formed the cornerstone of their digital presence.
 
-Alarm. A daily alarm may be set for a given time. The alarm may be enabled or disabled. When the alarm is enabled and the alarm time is reached, the watch will beep fast for 5 seconds, then slowly for 30 seconds, then fast for another 5 seconds. Pressing any button stops the alarm sound (in addition to performing its normal function).
+I meticulously integrated typography, color psychology, and design elements to create logos that not only visually represented each client but also elicited the desired emotional response from their respective audiences.
 
-Timer. Timer mode shows a count-up timer that starts at 00:00. When the timer is started, it counts up. Pressing the start/stop button will pause the timer, pressing it again continues counting up. Pressing and holding the button for 3 seconds resets the timer to 00:00 and stops counting.
+Each logo was strategically designed to be versatile, ensuring its adaptability across a variety of digital mediums while maintaining consistency in representing each brand's unique identity.
 
-Mystery answer. After entering this mode, the screen initially displays “ask now”. The user may ask a yes-or-no question aloud and press the start/stop button, this will display a randomly selected answer that is one of the following: “yeah”, “yeah right”, “no” “no doubt”, “keep trying”, “keep dreaming”. Whenever the display has more than one word, only one word is displayed for 2 seconds, then the other word is displayed for 2 seconds, alternately. The answer is displayed until the user leaves this mode, or he/she presses start/stop again for a new answer. 
+My achievement as a Logo Designer for *DIGITAL TIER* resides in translating the individual visions of numerous clients into succinct visual forms, establishing foundational elements crucial for their brand recognition and identity.
 
-Note: these strings are for the English version of the watch, we will need to use completely different strings in other countries without reprogramming the logic of the watch.
-
-The user may cycle among all modes (date/time, timer, mystery answer) by pressing the mode button.
-
-The “Osen Clock” watch has all the features that users expect in a digital watch, and some unusual features.
-
-The watch has the following features:
-
-Time and date displayed on the screen. Current time is in large numbers, date is in small numbers above it.
-
-Light: Pressing the light button on the side of the watch activates a light while the button is pressed. Pressing and holding that button for 3 seconds turns on the light and keeps it on, until the button is held again for 3 seconds or up to 2 hours. After 2 hours, it will automatically turn off.
-
-Alarm. A daily alarm may be set for a given time. The alarm may be enabled or disabled. When the alarm is enabled and the alarm time is reached, the watch will beep fast for 5 seconds, then slowly for 30 seconds, then fast for another 5 seconds. Pressing any button stops the alarm sound (in addition to performing its normal function).
-
-Timer. Timer mode shows a count-up timer that starts at 00:00. When the timer is started, it counts up. Pressing the start/stop button will pause the timer, pressing it again continues counting up. Pressing and holding the button for 3 seconds resets the timer to 00:00 and stops counting.
-
-Mystery answer. After entering this mode, the screen initially displays “ask now”. The user may ask a yes-or-no question aloud and press the start/stop button, this will display a randomly selected answer that is one of the following: “yeah”, “yeah right”, “no”, “no doubt”, “keep trying”, “keep dreaming”. Whenever the display has more than one word, only one word is displayed for 2 seconds, then the other word is displayed for 2 seconds, alternately. The answer is displayed until the user leaves this mode, or he/she presses start/stop again for a new answer. 
-
-Note: these strings are for the English version of the watch, we will need to use completely different strings in other countries without reprogramming the logic of the watch.
-                
-The user may cycle among all modes (date/time, timer, mystery answer) by pressing the mode button.             
+> ![Reto PC](../../assets/images/projects/digitaltier-work-1-reto-pc.png)
+> ![Positiva](../../assets/images/projects/digitaltier-work-2-positiva.png)
+> ![Komensal](../../assets/images/projects/digitaltier-work-3-komensal.png)
+> ![TDR](../../assets/images/projects/digitaltier-work-4-tdr.png)
+> ![Concultura MC](../../assets/images/projects/digitaltier-work-5-concultura-mc.png)
+> ![ultraspaces](../../assets/images/projects/digitaltier-work-6-ultraspaces.png)
+> ![I❤️LF](../../assets/images/projects/digitaltier-work-7-illf.png)
+> ![Date Off](../../assets/images/projects/digitaltier-work-8-date-off.png)
+> ![desarrollodigital.ws](../../assets/images/projects/digitaltier-work-9-desarrollo-digital-ws.png)

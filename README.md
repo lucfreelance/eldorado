@@ -23,9 +23,7 @@ Voilatin are a Digital Agency for services in:
 
 - Virtual Assistance
 - Community Manager
-- SEO Copywriting
-- Image Branding
-- Social Media
+- Social Media...
 
 And more. Be our guess and explore our portfolio's services.
 

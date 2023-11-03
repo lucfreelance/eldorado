@@ -1,7 +1,7 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "Virtual Assistance, Social Media & Community Manager"
+  subTitle: "Virtual Assistance, Community Manager & Social Media"
   title:
     firstPara: "VOILATIN [Digital Agency]"
     secondPara: "'Where All Your Zooming Needs Meets Our Motto'"
