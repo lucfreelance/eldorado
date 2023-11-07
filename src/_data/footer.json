@@ -5,7 +5,7 @@
   "contactsInfo":[
     {
       "link":"https://maps.app.goo.gl/snLZ4686x1HppDwy5",
-      "text":"Cali, Valle del Cauca, CO 760014"
+      "text":"Cali, Valle, CO 760014"
     },
     {
       "link":"tel:+57-315-7742332",
@@ -33,14 +33,14 @@
     },
     {
       "link":"terms-conditions",
-      "text":"Terms & Condition"
+      "text":"Terms & Conds"
     }
   ],
 
   "socialHeading":"Social Media",
   "socialMedia":[
     {
-      "link":"https://www.behance.net/voilatin",
+      "link":"https://behance.net/voilatin",
       "text":"Behance"
     },
     {
@@ -55,7 +55,7 @@
   
   "brandHeading":"We help brands:",
   "brandMotto":
-  ["Develop design solutions","Produce valuable content","Create fresh brand experience"],
+  ["Develop design solutions","Produce valuable content","Create brand experiences"],
 
   "back2topIcon":"/assets/images/to-top.svg",
   "customerComment":"Back to hero"

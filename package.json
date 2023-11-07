@@ -1,7 +1,7 @@
 {
    "name": "voilatin",
    "version": "1.0.0",
-   "description": "",
+   "description": "Voilatin [Digital Agency] - voilatin.vercel.app",
    "main": ".eleventy.js",
    "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,7 +15,6 @@
    "keywords": [
       "eleventy",
       "nunjucks",
-      "bootstrap",
       "javascript"
    ],
    "author": "Lucfreelance",
